@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Austin M Robinson
+image: /img/blog-index.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: UX Designer at HP
 mainpitch:
   title: Why Kaldi
   description: >
