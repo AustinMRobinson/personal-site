@@ -30,7 +30,7 @@
 - [Figma] Table corner radius updated to 12px for high density, and 16px for standard density
 - [Figma] Radio button disabled selected/unselected name fix, fixed inner circle size for selected/disabled state (high density)
 
-#### Adobe XD
+##### Adobe XD
 - [Adobe XD] Table component row height updated to match Figma. Avatar component added to rows
 - [Adobe XD] Breadcrumb fixes, tab fixes
 
